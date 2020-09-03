@@ -1,5 +1,7 @@
 # cep_api
 
+Consuming ViaCep api with Vue
+
 ## Project setup
 
 ```
